@@ -1,7 +1,0 @@
-project_id = "wevljukjnesrbrrdmtwn"
-
-[functions.send-model-approval-email]
-verify_jwt = false
-
-[functions.profile-assistant]
-verify_jwt = false
